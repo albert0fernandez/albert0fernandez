@@ -12,11 +12,8 @@ y la automatizo con CI/CD. Y todo lo que aprendo, lo documento en mis repos.
 <br/>
 
 [![LinkedIn][linkedin-badge]][linkedin-url]
-[![Gmail][gmail-badge]][gmail-url]
-
-<!-- Cuando tengas tu CV publicado, descomenta esta línea y pon su URL en [cv-url] al final del fichero:
 [![CV][cv-badge]][cv-url]
--->
+[![Gmail][gmail-badge]][gmail-url]
 
 </div>
 
@@ -91,5 +88,5 @@ y la automatizo con CI/CD. Y todo lo que aprendo, lo documento en mis repos.
 [linkedin-url]: https://www.linkedin.com/in/albertofernandezbaeza
 [gmail-badge]: https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white
 [gmail-url]: mailto:albertofernandezbaeza@gmail.com
-[cv-badge]: https://img.shields.io/badge/CV-Descargar-2E7D32?style=for-the-badge
-[cv-url]: https://example.com/PON-AQUI-LA-URL-DE-TU-CV
+[cv-badge]: https://img.shields.io/badge/CV-Ver%20online-2E7D32?style=for-the-badge
+[cv-url]: https://cv.82-70-76-146.sslip.io
