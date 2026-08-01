@@ -13,6 +13,7 @@ y la automatizo con CI/CD. Y todo lo que aprendo, lo documento en mis repos.
 
 [![LinkedIn][linkedin-badge]][linkedin-url]
 [![CV][cv-badge]][cv-url]
+[![Web][web-badge]][web-url]
 [![Gmail][gmail-badge]][gmail-url]
 
 </div>
@@ -90,3 +91,5 @@ y la automatizo con CI/CD. Y todo lo que aprendo, lo documento en mis repos.
 [gmail-url]: mailto:albertofernandezbaeza@gmail.com
 [cv-badge]: https://img.shields.io/badge/CV-Ver%20online-2E7D32?style=for-the-badge
 [cv-url]: https://cv.82-70-76-146.sslip.io
+[web-badge]: https://img.shields.io/badge/🌐_Web-F97316?style=for-the-badge
+[web-url]: https://alberto.82-70-76-146.sslip.io
