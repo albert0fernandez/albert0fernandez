@@ -24,7 +24,7 @@ y la automatizo con CI/CD. Y todo lo que aprendo, lo documento en mis repos.
 | | Proyecto | Qué hay dentro |
 |:---:|:---|:---|
 | ☁️ | **[AWS Infrastructure v2][proyecto-v2]** | Una app PHP + MySQL desplegada en AWS con **Docker**, **Terraform** por módulos (VPC · EC2 · RDS) y **CI/CD** con GitHub Actions. Mi proyecto más completo hasta la fecha. |
-| 🏛️ | **[AWS Cloud Infrastructure v1][proyecto-v1]** | La primera versión: misma arquitectura, construida con **CloudFormation**. Donde empezó todo. |
+| 🏛️ | **[AWS Cloud Infrastructure v1][proyecto-v1]** | El origen, nacido del reto **RetaCantabria 2025**: infraestructura de alta disponibilidad con **CloudFormation** (ALB + Auto Scaling, backups serverless con Lambda + S3). |
 
 <sub>🔜 Más proyectos en camino — esto acaba de empezar.</sub>
 
