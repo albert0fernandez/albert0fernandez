@@ -14,6 +14,7 @@ y la automatizo con CI/CD. Y todo lo que aprendo, lo documento en mis repos.
 [![LinkedIn][linkedin-badge]][linkedin-url]
 [![CV][cv-badge]][cv-url]
 [![Web][web-badge]][web-url]
+[![Estado][estado-badge]][estado-url]
 [![Gmail][gmail-badge]][gmail-url]
 
 </div>
@@ -26,6 +27,8 @@ y la automatizo con CI/CD. Y todo lo que aprendo, lo documento en mis repos.
 |:---:|:---|:---|
 | ☁️ | **[AWS Infrastructure v2][proyecto-v2]** | Una app PHP + MySQL desplegada en AWS con **Docker**, **Terraform** por módulos (VPC · EC2 · RDS) y **CI/CD** con GitHub Actions. Mi proyecto más completo hasta la fecha. |
 | 🏛️ | **[AWS Cloud Infrastructure v1][proyecto-v1]** | El origen, nacido del reto **RetaCantabria 2025**: infraestructura de alta disponibilidad con **CloudFormation** (ALB + Auto Scaling, backups serverless con Lambda + S3). |
+
+| 📈 | **[Observabilidad del servidor][proy-obs]** | Prometheus, Grafana y una **[página de estado pública][estado-url]** que comprueba mis servicios cada minuto. Monitorización definida por completo en ficheros, sin configurar nada a mano. |
 
 <sub>🔜 Más proyectos en camino — esto acaba de empezar.</sub>
 
@@ -63,6 +66,7 @@ y la automatizo con CI/CD. Y todo lo que aprendo, lo documento en mis repos.
 
 <!-- ============================ enlaces ============================ -->
 
+[proy-obs]: https://github.com/albert0fernandez/servidor-observabilidad
 [proyecto-v2]: https://github.com/albert0fernandez/aws-infraestructure-version-2
 [proyecto-v1]: https://github.com/albert0fernandez/aws-cloud-infrastructure-project
 [aws-badge]: assets/badge-aws.svg
@@ -89,6 +93,8 @@ y la automatizo con CI/CD. Y todo lo que aprendo, lo documento en mis repos.
 [linkedin-url]: https://www.linkedin.com/in/albertofernandezbaeza
 [gmail-badge]: https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white
 [gmail-url]: mailto:albertofernandezbaeza@gmail.com
+[estado-badge]: https://img.shields.io/badge/%F0%9F%9F%A2_Estado_en_vivo-16a34a?style=for-the-badge
+[estado-url]: https://estado.82-70-76-146.sslip.io
 [cv-badge]: https://img.shields.io/badge/CV-Ver%20online-2E7D32?style=for-the-badge
 [cv-url]: https://cv.82-70-76-146.sslip.io
 [web-badge]: https://img.shields.io/badge/🌐_Web-F97316?style=for-the-badge
